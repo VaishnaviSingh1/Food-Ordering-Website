@@ -1,20 +1,17 @@
 # Full-Stack-Food-Delivery-Project
 ****Home Page****
 
-![img1](https://github.com/VaishnaviSingh1/Full-Stack-Food-Delivery-Projec/assets/98222001/25d55b4f-3b49-48de-8402-1dbefef34fae)
+![img1](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/161e7baa-bb9d-4f2f-9383-072f122d3d13)
 
 **Menu page**
 
-![img2](https://github.com/VaishnaviSingh1/Full-Stack-Food-Delivery-Projec/assets/98222001/700aebe0-0a8a-434d-a7ee-2b97d890720f)
-
+![img2](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/01532cec-7368-4378-ba3d-8189f7c6d323)
 **Cart Page**
 
-![img3](https://github.com/VaishnaviSingh1/Full-Stack-Food-Delivery-Projec/assets/98222001/56c2f60e-b7e4-444c-9141-13a94c684393)
-
+![img3](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/d4747eba-2d25-4db6-8492-ad497374138e)
 **Admin Panel**
 
-![img 4](https://github.com/VaishnaviSingh1/Full-Stack-Food-Delivery-Projec/assets/98222001/6e362e9b-31b9-447f-97c6-341871c7e6f2)
-
+![img 4](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/d84b53d7-b0e1-463f-a6bf-2b1ed2536a92)
 
 Build Full Stack Food Ordering Website using React JS, MongoDB, Express, Node JS &amp; Strip
 
