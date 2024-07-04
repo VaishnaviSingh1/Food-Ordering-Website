@@ -1,4 +1,7 @@
 # Full-Stack-Food-Delivery-Project
+
+Build Full Stack Food Ordering Website using React JS, MongoDB, Express, Node JS &amp; Strip
+
 ****Home Page****
 
 ![img1](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/161e7baa-bb9d-4f2f-9383-072f122d3d13)
@@ -13,11 +16,10 @@
 
 ![img 4](https://github.com/VaishnaviSingh1/Food-Ordering-Website/assets/98222001/d84b53d7-b0e1-463f-a6bf-2b1ed2536a92)
 
-Build Full Stack Food Ordering Website using React JS, MongoDB, Express, Node JS &amp; Strip
 
-**Project Overview**
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project Overview
+------------------------
 
 This project implements a complete food ordering website using React JS, MongoDB, Express, Node JS, and Stripe payment gateway. Key features include:
 
@@ -64,7 +66,7 @@ react-router-dom: Declarative routing for React applications
 
 axios: Promise-based HTTP client for the browser and Node.js
 
-**Environment Variables**
+Environment Variables
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ensure you have a .env file in your backend directory with the following variables:
@@ -75,7 +77,7 @@ STRIPE_SECRET_KEY: Secret key for Stripe API integration
 
 
 
-**MongoDB Schemas**
+MongoDB Schemas
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 const mongoose = require("mongoose");
@@ -124,9 +126,8 @@ module.exports = User;
 ```
 
 
-**Deployment**
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Deployment
+-------------------
 
 
 1.Deploy the backend (Node.js / Express) and frontend (React) to your preferred hosting services.
